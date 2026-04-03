@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# MyClients ist eine lokale Praxissoftware – keine Indexierung erwünscht

@@ -1,0 +1,4 @@
+Contact: mailto:nassca@protonmail.com
+Preferred-Languages: de, en
+Canonical: https://github.com
+Policy: Bitte melden Sie Sicherheitsprobleme direkt per E-Mail.
